@@ -20,7 +20,8 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 ## _Models Used_
 1. Logistic Regression (https://www.analyticsvidhya.com/blog/2022/02/logistic-regression-using-python-and-excel/)
 //LINK FOR REFERENCE delete after
-3. Random Forest Classification
+3. Random Forest Classification (https://builtin.com/data-science/random-forest-python-deep-dive)
+//LINK FOR REFERENCE delete after
  
 ## _Conclusion_
 
