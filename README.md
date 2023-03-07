@@ -14,7 +14,8 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 - @insertGH_user - contribn
 
 ## _Problem Definition_
-- Are we able to predict ho
+- Are we able to predict the bankruptcy likelihood of a company based on its financial statements?
+- What variable and model would be the best to predict it?
 
 ## _Models Used_
 1. Logistic Regression
