@@ -9,9 +9,9 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 5. [Random Forest Classification](//insert repository link)
 
 ## _Contributors_
-- @ - 
-- @ - 
-- @ -
+- @VoidWitch - Data Extraction and Data Visualization
+- @insertGH_user - contribn
+- @insertGH_user - contribn
 
 ## _Problem Definition_
 
