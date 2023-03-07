@@ -14,4 +14,16 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 - @insertGH_user - contribn
 
 ## _Problem Definition_
+- Are we able to predict ho
+
+## _Models Used_
+1. Logistic Regression
+2. Random Forest Classification
+ 
+## _Conclusion_
+
+## _Project Insights_
+
+## _References_
+
 
