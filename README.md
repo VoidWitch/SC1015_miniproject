@@ -18,8 +18,9 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 - What variable and model would be the best to predict it?
 
 ## _Models Used_
-1. Logistic Regression (https://www.analyticsvidhya.com/blog/2022/02/logistic-regression-using-python-and-excel/)//LINK FOR REFERENCE delete after
-2. Random Forest Classification
+1. Logistic Regression (https://www.analyticsvidhya.com/blog/2022/02/logistic-regression-using-python-and-excel/)
+//LINK FOR REFERENCE delete after
+3. Random Forest Classification
  
 ## _Conclusion_
 
