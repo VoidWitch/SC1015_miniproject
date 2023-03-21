@@ -3,7 +3,7 @@
 This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial statements from Kaggle: [Company Bankruptcy Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Extraction](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Extraction.ipynb)
-2. [Data Exploration And Visualization](http://localhost:8888/notebooks/Desktop/DSAI_MiniProject/Data_Exploration_Visualization.ipynb)
+2. [Data Exploration And Visualization](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Exploration_Visualization.ipynb)
 3. [Data Splitting](//insert repository link)
 4. [Logistic Regression](//insert repository link)
 5. [Random Forest Classification](//insert repository link)
