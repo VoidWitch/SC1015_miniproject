@@ -8,7 +8,7 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 4. [XGB](//insert repository link)
 
 ## _Contributors_
-- @VoidWitch - Data Extraction, Exploration, And Visualization
+- @VoidWitch - Data Extraction, Exploration, Visualization
 - @chesterchua - XGBoost
 - @rebeladele - Random Forest Classifier
 
