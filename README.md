@@ -4,23 +4,21 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 
 1. [Data Extraction](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Extraction.ipynb)
 2. [Data Exploration And Visualization](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Exploration_Visualization.ipynb)
-3. [Logistic Regression](//insert repository link)
-4. [Random Forest Classification](//insert repository link)
-5. [XGB](//insert repository link)
+3. [Random Forest Classification](//insert repository link)
+4. [XGB](//insert repository link)
 
 ## _Contributors_
 - @VoidWitch - Data Extraction, Exploration, And Visualization
-- @insertGH_user - contribn
-- @insertGH_user - contribn
+- @chesterchua - XGBoost
+- @rebeladele - Random Forest Classifier
 
 ## _Problem Definition_
 - Are we able to predict the bankruptcy likelihood of a company based on its key financial statements?
 - What variable and model would be the best to predict it?
 
 ## _Models Used_
-1. Logistic Regression
-2. XGBoost
-3. Random Forest Classifier
+1. XGBoost
+2. Random Forest Classifier
  
 ## _Conclusion_
 
