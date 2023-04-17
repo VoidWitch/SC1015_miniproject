@@ -18,7 +18,7 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 - What model would be the best to predict it?
 
 ## _Models Used_
-1. XGBoost
+1. XGBoost Classifier
 2. Random Forest Classifier
 3. Logistic Regression
  
@@ -28,7 +28,10 @@ Looking at our problem definition from another perspective: "Out of all bankrupt
 As such, we have determined that random forest classifier would be the best for our scenario since it is the overall highest recall score and we can predict the likelihood of a company's bankruptcy with an acceptable level of reliability and accuracy.
 
 ## _Project Insights_
-
+- Based on our objectives and the metrics we want to use to evaluate our objectives, hyperparameter tuning may not be suitable.
+- Accuracy score is not a suitable metric if the dataset is heavily imbalanced.
+- In contrast to our initial expectations of XGBoost being the best ML model for prediction, it was outperformed by the other models when comparing recall score.
+- In terms of performance, XGBoost and Random Forest are generally considered to be more powerful and accurate than Logistic Regression, particularly when dealing with large and complex datasets. However, if the dataset is relatively small, Logistic Regression may be a better choice.
 
 ## _References_
 1. https://www.simplilearn.com/what-is-xgboost-algorithm-in-machine-learning-article#:~:text=XGBoost%20is%20a%20powerful%20open,decision%20trees%20and%20gradient%20boosting.
