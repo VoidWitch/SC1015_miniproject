@@ -25,7 +25,7 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 
 ## _Conclusion_
 Looking at our problem definition from another perspective: "Out of all bankrupt companies, how many did the model predict as bankrupt correctly?", we realized that it is alright for there to be false positives(not bankrupt but classified as bankrupt) as there is no harm in companies taking actions to boost their financial health or mitigate potential bankruptcy implications.
-As such, we have determined that random forest classifier would be the best for our scenario since it is the overall highest recall accuracy and we can predict the likelihood of a company's bankruptcy with an acceptable level of reliability and accuracy.
+As such, we have determined that random forest classifier would be the best for our scenario since it is the overall highest recall score and we can predict the likelihood of a company's bankruptcy with an acceptable level of reliability and accuracy.
 
 ## _Project Insights_
 
