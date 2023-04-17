@@ -5,7 +5,7 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 1. [Data Extraction](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Extraction.ipynb)
 2. [Data Exploration And Visualization](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Exploration_Visualization.ipynb)
 3. [Random Forest Classifier](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
-4. [XGB](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
+4. [XGBoost Classifier](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
 5. [Logistic Regression](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
 
 ## _Contributors_
