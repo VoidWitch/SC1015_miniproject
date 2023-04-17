@@ -9,7 +9,7 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 
 ## _Contributors_
 - @VoidWitch - Data Extraction, Exploration, Visualization
-- @chesterchua - XGBoost
+- @chesterchua - XGBoost, Logistic Regression
 - @rebeladele - Random Forest Classifier
 
 ## _Problem Definition_
@@ -19,8 +19,10 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 ## _Models Used_
 1. XGBoost
 2. Random Forest Classifier
+3. Logistic Regression
  
 ## _Conclusion_
+We are unable to effectively predict the likelihood of a company's bankruptcy based on its financial s
 
 ## _Project Insights_
 
