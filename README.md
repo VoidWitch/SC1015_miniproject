@@ -4,13 +4,14 @@ This is a MINI-PROJECT for SC1015 (Intro to DSAI), which focuses on financial st
 
 1. [Data Extraction](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Extraction.ipynb)
 2. [Data Exploration And Visualization](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Data_Exploration_Visualization.ipynb)
-3. [Random Forest Classifier](//insert repository link)
-4. [XGB](//insert repository link)
+3. [Random Forest Classifier](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
+4. [XGB](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
+5. [Logistic Regression](https://github.com/VoidWitch/SC1015_miniproject_team8/blob/main/Machine%20Learning%20Models%20with%20Evaluation.ipynb)
 
 ## _Contributors_
 - @VoidWitch - Data Extraction, Exploration, Visualization
-- @chesterchua - XGBoost, Logistic Regression
-- @rebeladele - Random Forest Classifier
+- @chesterchua - XGBoost Classifier, Logistic Regression, Model Evaluation
+- @rebeladele - Random Forest Classifier, Video-making
 
 ## _Problem Definition_
 - Are we able to predict the bankruptcy likelihood of a company based on its key financial statements?
